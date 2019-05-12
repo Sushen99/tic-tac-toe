@@ -1,0 +1,16 @@
+Python-Tic-Tac-Toe
+Tic Tac Toe in Python.
+
+#Instructions
+
+No special libraries required just run with Python 3
+
+#Features
+
+ 1.Basic Gameplay(user with user)
+ 
+ 2.Basic gameplay(user with computer random input)
+ 
+ 3.Player vs AI(available)
+ 
+ 4.Tkinter Gui(NO, simple user interface)
